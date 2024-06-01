@@ -5,7 +5,10 @@ export function generateStaticParams() {
         { pageName: "page3" },
         { pageName: "page4" },
         { pageName: "page5" },
-        { pageName: "page6" }
+        { pageName: "page6" },
+        { pageName: "CMajor" },
+        { pageName: encodeURIComponent("C Major") },
+        { pageName: "Cb%20Major" },
     ]
 }
 

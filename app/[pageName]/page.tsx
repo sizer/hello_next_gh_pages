@@ -9,6 +9,8 @@ export function generateStaticParams() {
         { pageName: "CMajor" },
         { pageName: encodeURIComponent("C Major") },
         { pageName: "Cb%20Major" },
+        { pageName: "C-Major" },
+        { pageName: "C_Major" },
     ]
 }
 
